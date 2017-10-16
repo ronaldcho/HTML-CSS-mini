@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+  }
+  
+  h2 {
+    color: red;
+  }
+  .Box {
+    box-sizing:border-box;
+    width:50%;
+    height:300px;
+    padding:20px;
+    margin:0;
+    display: inline-block;
+  }
+  
+  .Box--blue {
+    background-color: green;
+  }
